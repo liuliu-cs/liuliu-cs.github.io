@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](http://liuliu-cs.github.io/files/DSG_ICLR19.pdf)) <br />
+### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](http://liuliu-cs.github.io/files/DSG_ICLR2019.pdf)) <br />
 **Liu Liu**, Lei Deng, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie <br />
 in *the Seventh International Conference on Learning Representations (ICLR)*, May 2019
 
