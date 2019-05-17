@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](http://liuliu-cs.github.io/files/DSG_ICLR19.pdf)) <br />
+**Liu Liu**, Lei Deng, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie <br />
+in *the Seventh International Conference on Learning Representations (ICLR)*, May 2019
 
 ### Building Energy-Efficient Multi-Level Cell STT-RAM Caches with Data Compression. ([pdf](http://liuliu-cs.github.io/files/ASP-DAC-17.pdf)) <br />
 **Liu Liu**, Ping Chi, Shuangchen Li, Yuanqing Cheng, Yuan Xie <br />
