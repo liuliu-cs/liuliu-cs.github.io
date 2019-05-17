@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Liu Liu is currently a Ph.D. student at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/) under the supervision of Professor [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). His research focuses on efficient deep learning at the intersection between machine learning and computer architecture. After received his Master’s degree in [Electrical and Computer Engineering](https://www.ece.ucsb.edu/) from the University of California at Santa Barbara (UCSB), he joined the Department of [Computer Science](http://cs.ucsb.edu/) in 2016. Before his graduate study at UCSB, he received a Bachelor’s degree from the University of Electronic Science and Technology of China ([UESTC](http://www.uestc.edu.cn/)) in 2013.
+Liu Liu is currently a Ph.D. candidate at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/) under the supervision of Professor [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/) and Professor [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/). His research focuses on efficient deep learning at the intersection between machine learning and computer architecture. After received his Master’s degree in [Electrical and Computer Engineering](https://www.ece.ucsb.edu/) from the University of California at Santa Barbara (UCSB), he joined the Department of [Computer Science](http://cs.ucsb.edu/) in 2016. Before his graduate study at UCSB, he received a Bachelor’s degree from the University of Electronic Science and Technology of China ([UESTC](http://www.uestc.edu.cn/)) in 2013.
 
 Research Summary
 ======
