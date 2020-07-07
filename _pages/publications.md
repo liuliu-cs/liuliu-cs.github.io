@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture (to appear) <br />
+**Liu Liu**, Zheng Qu, Lei Deng, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie <br />
+in *the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Oct. 2020
+
 ### Boosting Deep Neural Network Efficiency with Dual-Module Inference (to appear) <br />
 **Liu Liu**, Lei Deng, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie <br />
-in *the 37th International Conference on Machine Learning (ICML)* July 2020
+in *the 37th International Conference on Machine Learning (ICML)*, July 2020
 
 ### Dynamic Sparse Graph for Efficient Deep Learning ([pdf](http://liuliu-cs.github.io/files/DSG_ICLR2019.pdf)) <br />
 **Liu Liu**, Lei Deng, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie <br />
