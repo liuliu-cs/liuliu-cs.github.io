@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Liu Liu 刘浏"
-  avatar           : "Picture1.jpg"
+  avatar           : "Liu-11-2020.jpeg"
   bio              : "CS@UCSB"
   location         : "Santa Barbara, California"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_lxwnx4AAAAJ"
   email            :
   uri              :
   bitbucket        :
