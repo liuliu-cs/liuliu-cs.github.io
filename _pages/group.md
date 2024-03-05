@@ -18,7 +18,7 @@ profiles:
     content: profile_Zhenyu.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: yayue.jpg
+    image: yayuehou.jpg
     content: profile_Yayue.md
     image_circular: false # crops the image to make it circular
   - align: left
