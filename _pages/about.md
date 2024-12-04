@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: The fear of the LORD is the beginning of wisdom (Proverbs 9:10a)
 

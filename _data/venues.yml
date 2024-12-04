@@ -6,62 +6,75 @@
   url: https://journals.aps.org/
 
 # Journal: 003660
-# Arch
+
+# Systems: arch
 "ISCA":
   url: https://iscaconf.org/
-  color: "#09847A"
+  color: "#003660"
 
 "MICRO":
   url: https://microarch.org/
-  color: "#09847A"
+  color: "#003660"
 
 "ASPLOS":
   url: https://www.asplos-conference.org/
-  color: "#09847A"
+  color: "#003660"
 
-# System / HPC
+# Systems: HPC
 "MLSys":
   url: https://mlsys.org/
   color: "#047C91"
 
 "PPoPP":
   url: https://www.sigplan.org/Conferences/PPOPP/
-  color: "#047C91"
+  color: "#003660"
 
 "SC":
   url: https://supercomputing.org/
-  color: "#047C91"
+  color: "#003660"
 
-# Design Automation / Circuit
+# Systems: Design Automation
 "DAC":
   url: https://www.dac.com/
-  color: "#c43424"
+  color: "#003660"
 
 "ASP-DAC":
   url: https://www.aspdac.com/
-  color: "#c43424"
+  color: "#047C91"
 
 "ICCAD":
   url: https://iccad.com/
-  color: "#c43424"
+  color: "#003660"
 
 "DATE":
   url: https://www.date-conference.com/
-  color: "#c43424"
+  color: "#047C91"
 
 "GLS-VLSI":
-  color: "#c43424"
+  url: https://www.glsvlsi.org/
+  color: "#047C91"
 
-"ISSCC":
-  url: https://www.isscc.org/
-  color: "#c43424"
 
 
 # ML
 "ICLR":
   url: https://iclr.cc/
-  color: "#FEBC11"
+  color: "#09847A"
 
 "ICML":
   url: https://icml.cc/
-  color: "#FEBC11"
+  color: "#09847A"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#09847A"
+
+# Misc.
+"ISSCC":
+  color: "#9CBEBE"
+
+"CAL":
+  color: "#9CBEBE"
+
+"Preprint":
+  color: "#9CBEBE"
