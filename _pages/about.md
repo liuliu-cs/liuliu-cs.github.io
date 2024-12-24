@@ -22,4 +22,4 @@ His doctoral dissertation was supervised by Dr. [Yuan Xie](https://ece.hkust.edu
 He holds a Bachelor’s degree from the University of Electronic Science and Technology of China (UESTC).
 He is a recipient of Peter J Frenkel Fellowship from the Institute of Energy Efficiency at UCSB.
 
-Link to RPI [faculty](https://faculty.rpi.edu/liu-liu) page.
+I am seeking highly self-motivated students with interests in computer architecture, ML systems, and AI hardware to join my research group.

@@ -112,8 +112,8 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Contact: liu.liu@rpi.edu
+# contact_note: >
+  # Contact: liu.liu@rpi.edu
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
