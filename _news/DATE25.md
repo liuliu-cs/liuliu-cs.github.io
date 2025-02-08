@@ -5,4 +5,4 @@
  related_posts: false
 ---
 
-Our NORA paper appears in the Design, Automation and Test in Europe Conference (DATE), 2025.    
+Our NORA paper appears in DATE 2025.    
