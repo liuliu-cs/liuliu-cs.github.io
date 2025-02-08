@@ -18,7 +18,7 @@ profiles:
     content: profile_ZL.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: yayue.jpg
+    image: yh.jpg
     content: profile_YH.md
     image_circular: false # crops the image to make it circular
   - align: right
