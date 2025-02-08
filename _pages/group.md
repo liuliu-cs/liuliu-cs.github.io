@@ -14,11 +14,11 @@ profiles:
     content: profile_GG.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: ZL.jpg
+    image: zl.jpg
     content: profile_ZL.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: Yayue.jpg
+    image: yayue.jpg
     content: profile_YH.md
     image_circular: false # crops the image to make it circular
   - align: right
