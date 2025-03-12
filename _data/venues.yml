@@ -7,56 +7,7 @@
 
 # Journal: 003660
 
-# Systems: arch
-"ISCA":
-  url: https://iscaconf.org/
-  color: "#003660"
-
-"MICRO":
-  url: https://microarch.org/
-  color: "#003660"
-
-"ASPLOS":
-  url: https://www.asplos-conference.org/
-  color: "#003660"
-
-# Systems: HPC
-"MLSys":
-  url: https://mlsys.org/
-  color: "#047C91"
-
-"PPoPP":
-  url: https://www.sigplan.org/Conferences/PPOPP/
-  color: "#003660"
-
-"SC":
-  url: https://supercomputing.org/
-  color: "#003660"
-
-# Systems: Design Automation
-"DAC":
-  url: https://www.dac.com/
-  color: "#003660"
-
-"ASP-DAC":
-  url: https://www.aspdac.com/
-  color: "#047C91"
-
-"ICCAD":
-  url: https://iccad.com/
-  color: "#003660"
-
-"DATE":
-  url: https://www.date-conference.com/
-  color: "#047C91"
-
-"GLS-VLSI":
-  url: https://www.glsvlsi.org/
-  color: "#047C91"
-
-
-
-# ML
+# CSRankings: AI-ML
 "ICLR":
   url: https://iclr.cc/
   color: "#09847A"
@@ -69,10 +20,63 @@
   url: https://neurips.cc/
   color: "#09847A"
 
-# Misc.
-"ISSCC":
-  color: "#9CBEBE"
+# CSRankings: Systems-Arch
+"ISCA":
+  url: https://iscaconf.org/
+  color: "#003660"
 
+"MICRO":
+  url: https://microarch.org/
+  color: "#003660"
+
+"ASPLOS":
+  url: https://www.asplos-conference.org/
+  color: "#003660"
+
+# CSRanking: Systems-Design Automation
+"DAC":
+  url: https://www.dac.com/
+  color: "#003660"
+
+"ICCAD":
+  url: https://iccad.com/
+  color: "#003660"
+
+# CSRankings: Systems-HPC
+"SC":
+  url: https://supercomputing.org/
+  color: "#003660"
+
+"ICS":
+  url: https://www.ics-conference.org/
+  color: "#003660"
+
+# Other conferences
+"PPoPP":
+  url: https://www.sigplan.org/Conferences/PPOPP/
+  color: "#047C91"
+
+"DATE":
+  url: https://www.date-conference.com/
+  color: "#047C91"
+
+"GLS-VLSI":
+  url: https://www.glsvlsi.org/
+  color: "#047C91"
+
+"MLSys":
+  url: https://mlsys.org/
+  color: "#047C91"
+
+"ASP-DAC":
+  url: https://www.aspdac.com/
+  color: "#047C91"
+
+"ISSCC":
+  url: https://www.isscc.org/
+  color: "#047C91"
+
+# Letter/Workshop/Pre-print
 "CAL":
   color: "#9CBEBE"
 
