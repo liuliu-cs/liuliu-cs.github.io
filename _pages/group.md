@@ -25,5 +25,9 @@ profiles:
     image: zehao.jpg
     content: profile_ZF.md
     image_circular: false # crops the image to make it circular
+  - align: right
+    image: NanZhou.jpeg
+    content: profile_NanZ.md
+    image_circular: false
 ---
 
