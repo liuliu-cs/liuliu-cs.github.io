@@ -22,12 +22,20 @@ profiles:
     content: profile_YH.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: zehao.jpg
+    image: Zehao-Fan-2025.jpg
     content: profile_ZF.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: NanZhou.jpeg
     content: profile_NanZ.md
     image_circular: false
+  - align: right
+    image: Yidi-Hao-2025.jpeg
+    content: profile_Yidi.md
+    image_circular: false  
+  - align: right
+    image: 
+    content: profile_EC.md
+    image_circular: false  
 ---
 

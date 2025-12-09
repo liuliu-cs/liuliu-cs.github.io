@@ -22,4 +22,4 @@ His doctoral dissertation was supervised by Dr. [Yuan Xie](https://ece.hkust.edu
 He holds a Bachelor’s degree from the University of Electronic Science and Technology of China (UESTC).
 He is a recipient of NSF CAREER Award, Samsung Global Research Outreach Award, and Peter J Frenkel Fellowship from the Institute of Energy Efficiency at UCSB.
 
-<!-- **Opening**: I am seeking highly self-motivated students with interests in computer architecture, ML systems, and AI hardware to join my research group. -->
+**Opening**: We are seeking highly self-motivated students with interests in computer architecture, ML systems, and AI hardware to join our research group.
