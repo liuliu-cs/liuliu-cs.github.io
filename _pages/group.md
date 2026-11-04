@@ -30,11 +30,11 @@ profiles:
     content: profile_NanZ.md
     image_circular: false
   - align: right
-    image: Yidi-Hao-2025.jpeg
+    image: Yidi-Hao-2025.jpg
     content: profile_Yidi.md
     image_circular: false  
   - align: right
-    image: 
+    image: Eilis-Casey-2026.jpg
     content: profile_EC.md
     image_circular: false  
 ---
